@@ -4,19 +4,33 @@
     margin-right: auto;
     margin-top: 2%;
     margin-bottom: 0.5%;
-    width: 8%;
+    width: 9%;
 }
 
 .navbar-nav {
-    font-size: 1.4em;
+    font-size: 1.5em;
 }
 
 hr {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1.8em;
-    margin-bottom: 1.8em;
+    margin-top: 1.3em;
+    margin-bottom: 1.3em;
     width: 85%;
     border-top: 1.5px solid rgb(0, 0, 0);
     border-bottom: 1.5px solid rgb(0, 0, 0);
+}
+
+button {
+    font-weight: bolder;
+    width: 40%;
+    height: 70px;
+}
+
+.container p {
+    font-size: 1.35em;
+}
+
+.feature {
+    padding: 0 50px 0 0;
 }
