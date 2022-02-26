@@ -25,7 +25,7 @@ hr {
 
 main button {
     font-weight: lighter;
-    width: 40%;
+    width: 33%;
     height: 70px;
     min-width: 150px;
 }   
@@ -47,4 +47,12 @@ main button {
 
 .faq, .accordion-button {
     font-size: 1.2em;
+}
+
+.footerIcons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5%;
+    width: 9%;
 }
