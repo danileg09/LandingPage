@@ -42,3 +42,9 @@ main button {
     margin-top: 200px;
     margin-left: 1em;
 }
+
+
+
+.faq, .accordion-button {
+    font-size: 1.2em;
+}
