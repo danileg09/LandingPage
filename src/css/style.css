@@ -8,8 +8,9 @@
     min-width: 110px;
 }
 
-.navbar-nav {
+.navbar {
     font-size: 1.5em;
+    background-color: rgb(255, 255, 255);
 }
 
 hr {
