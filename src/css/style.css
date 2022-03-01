@@ -56,3 +56,17 @@ main button {
     margin-top: 1.5%;
     width: 9%;
 }
+
+@media (max-width: 600px) {
+    #Card {
+        margin-left: 5%;
+        min-width: 115%;
+    }
+    .faq {
+        min-width: 100%;
+    }
+    #FaqItem {
+        margin-top: 12%;
+    }
+    
+}
