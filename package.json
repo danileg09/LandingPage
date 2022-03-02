@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AurelioNM/LandingPage#readme",
   "devDependencies": {
     "bootstrap": "^5.1.3"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
   }
 }
